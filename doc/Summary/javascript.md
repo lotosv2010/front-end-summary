@@ -1,8 +1,8 @@
-- [前端知识点总结-JavaScript篇](#%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E6%B1%87%E6%80%BB)
+- [前端知识点总结-JavaScript篇](#%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93)
   - [第 1 点：BOM和DOM解释与分析。](#%E7%AC%AC-1-%E7%82%B9bom%E5%92%8Cdom%E8%A7%A3%E9%87%8A%E4%B8%8E%E5%88%86%E6%9E%90)
 
 
-  ## 前端面试题及答案汇总
+  ## 前端知识点总结
 
 ### [总览](https://github.com/lotosv2010/front-end-summary/issues?q=is%3Aopen+is%3Aissue+label%3Asummary+label%3AJavaScript)
 
