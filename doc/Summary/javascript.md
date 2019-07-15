@@ -1,5 +1,6 @@
 - [前端知识点总结-JavaScript篇](#%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93)
   - [第 1 点：BOM和DOM解释与分析。](#%E7%AC%AC-1-%E7%82%B9bom%E5%92%8Cdom%E8%A7%A3%E9%87%8A%E4%B8%8E%E5%88%86%E6%9E%90)
+  - [第 2 点：call、apply、bind的理解。](#%E7%AC%AC-1-%E7%82%B9bom%E5%92%8Cdom%E8%A7%A3%E9%87%8A%E4%B8%8E%E5%88%86%E6%9E%90)
 
 
   ## 前端知识点总结
@@ -9,5 +10,11 @@
 ### 第 1 点：BOM和DOM解释与分析。
 
 解析：[第 1 点](https://github.com/lotosv2010/front-end-summary/issues/2)
+
+<br/>
+
+### 第 2 点：call、apply、bind的理解。
+
+解析：[第 2 点](https://github.com/lotosv2010/front-end-summary/issues/4)
 
 <br/>
