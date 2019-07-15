@@ -6,10 +6,10 @@
 
 ### [总览](https://github.com/lotosv2010/front-end-summary/issues?q=is%3Aopen+is%3Aissue+label%3Ainterview+label%3AJavaScript)
 
-### 第 1 题：？
+### 第 1 题：有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣，`Object.prototype.toString.call() 、 instanceof 以及 Array.isArray()`？
 
 公司：
 
-解析：[第 1 题]()
+解析：[第 1 题](https://github.com/lotosv2010/front-end-summary/issues/3)
 
 <br/>
