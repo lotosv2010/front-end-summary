@@ -19,7 +19,7 @@
 
 公司：
 
-解析：[第 1 题](https://github.com/lotosv2010/front-end-summary/issues/5)
+解析：[第 2 题](https://github.com/lotosv2010/front-end-summary/issues/5)
 
 <br/>
 
