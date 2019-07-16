@@ -22,6 +22,6 @@
 
 ### 第 3 点：闭包的理解。
 
-解析：[第 2 点](https://github.com/lotosv2010/front-end-summary/issues/6)
+解析：[第 3 点](https://github.com/lotosv2010/front-end-summary/issues/6)
 
 <br/>
