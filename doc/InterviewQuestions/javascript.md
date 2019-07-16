@@ -15,7 +15,7 @@
 
 <br/>
 
-### 第 2 题：['1', '2', '3'].map(parseInt) what & why ?？
+### 第 2 题：['1', '2', '3'].map(parseInt) what & why ？
 
 公司：
 
