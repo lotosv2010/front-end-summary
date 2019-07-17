@@ -2,7 +2,8 @@
   - [第 1 点：BOM和DOM解释与分析。](#%E7%AC%AC-1-%E7%82%B9bom%E5%92%8Cdom%E8%A7%A3%E9%87%8A%E4%B8%8E%E5%88%86%E6%9E%90)
   - [第 2 点：call、apply、bind的理解。](#%E7%AC%AC-2-%E7%82%B9callapplybind%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 3 点：闭包的理解。](#%E7%AC%AC-3-%E7%82%B9%E9%97%AD%E5%8C%85%E7%9A%84%E7%90%86%E8%A7%A3)
-  
+  - [第 4 点：js数据类型的理解。](#%E7%AC%AC-3-%E7%82%B9%E9%97%AD%E5%8C%85%E7%9A%84%E7%90%86%E8%A7%A3)
+
 
   ## 前端知识点总结
 
@@ -23,5 +24,11 @@
 ### 第 3 点：闭包的理解。
 
 解析：[第 3 点](https://github.com/lotosv2010/front-end-summary/issues/6)
+
+<br/>
+
+### 第 4 点：js数据类型的理解。
+
+解析：[第 4 点](https://github.com/lotosv2010/front-end-summary/issues/8)
 
 <br/>
