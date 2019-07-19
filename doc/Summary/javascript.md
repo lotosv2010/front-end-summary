@@ -3,7 +3,8 @@
   - [第 2 点：call、apply、bind的理解。](#%E7%AC%AC-2-%E7%82%B9callapplybind%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 3 点：闭包的理解。](#%E7%AC%AC-3-%E7%82%B9%E9%97%AD%E5%8C%85%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 4 点：js数据类型的理解。](#%E7%AC%AC-4-%E7%82%B9js%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
-  - [第 5 点：js数组和对象的理解。](#%E7%AC%AC-5-%E7%82%B9js%E6%95%B0%E7%BB%84%E5%92%8C%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 6 点：js函数的理解。](#%E7%AC%AC-5-%E7%82%B9js%E6%95%B0%E7%BB%84%E5%92%8C%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 6 点：js数组和对象的理解。](#%E7%AC%AC-5-%E7%82%B9js%E6%95%B0%E7%BB%84%E5%92%8C%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
   ## 前端知识点总结
@@ -34,8 +35,15 @@
 
 <br/>
 
-### 第 5 点：js数组和对象的理解。
+### 第 5 点：js函数的理解。
 
-解析：[第 5 点](https://github.com/lotosv2010/front-end-summary/issues/12)
+解析：[第 5 点](https://github.com/lotosv2010/front-end-summary/issues/10)
 
 <br/>
+
+### 第 6 点：js数组和对象的理解。
+
+解析：[第 6 点](https://github.com/lotosv2010/front-end-summary/issues/12)
+
+<br/>
+
