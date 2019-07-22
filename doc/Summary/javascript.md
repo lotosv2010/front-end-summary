@@ -62,7 +62,7 @@
 
 <br/>
 
-### 第 9 点：js Function类型。
+### 第 9 点：js Function类型的理解。
 
 解析：[第 9 点](https://github.com/lotosv2010/front-end-summary/issues/18)
 
