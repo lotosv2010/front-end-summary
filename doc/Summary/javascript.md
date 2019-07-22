@@ -57,6 +57,6 @@
 
 ### 第 8 点：js正则表达式的理解。
 
-解析：[第 7 点](https://github.com/lotosv2010/front-end-summary/issues/16)
+解析：[第 8 点](https://github.com/lotosv2010/front-end-summary/issues/16)
 
 <br/>
