@@ -5,6 +5,8 @@
   - [第 4 点：js数据类型的理解。](#%E7%AC%AC-4-%E7%82%B9js%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 5 点：js函数的理解。](#%E7%AC%AC-5-%E7%82%B9js%E5%87%BD%E6%95%B0%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 6 点：js数组和对象的理解。](#%E7%AC%AC-6-%E7%82%B9js%E6%95%B0%E7%BB%84%E5%92%8C%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 7 点：js时间与日期的理解。](#%E7%AC%AC-6-%E7%82%B9js%E6%95%B0%E7%BB%84%E5%92%8C%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 8 点：js正则表达式的理解。](#%E7%AC%AC-6-%E7%82%B9js%E6%95%B0%E7%BB%84%E5%92%8C%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
   ## 前端知识点总结
@@ -47,3 +49,14 @@
 
 <br/>
 
+### 第 7 点：js时间与日期的理解。
+
+解析：[第 7 点](https://github.com/lotosv2010/front-end-summary/issues/14)
+
+<br/>
+
+### 第 8 点：js正则表达式的理解。
+
+解析：[第 7 点](https://github.com/lotosv2010/front-end-summary/issues/16)
+
+<br/>
