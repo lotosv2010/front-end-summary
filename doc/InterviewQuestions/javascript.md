@@ -72,7 +72,7 @@
 
 ### 第 8 题：Async/Await 如何通过同步的方式实现异步？
 
-公司：
+公司：头条、微医
 
 解析：[第 8 题](https://github.com/lotosv2010/front-end-summary/issues/19)
 
