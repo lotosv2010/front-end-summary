@@ -8,6 +8,7 @@
   - [第 7 点：js时间与日期的理解。](#%E7%AC%AC-7-%E7%82%B9js%E6%97%B6%E9%97%B4%E4%B8%8E%E6%97%A5%E6%9C%9F%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 8 点：js正则表达式的理解。](#%E7%AC%AC-8-%E7%82%B9js%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 9 点：js Function类型的理解。](#%E7%AC%AC-9-%E7%82%B9js-function%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 10 点：js变量、作用域及内存的理解。](#%E7%AC%AC-9-%E7%82%B9js-function%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
   ## 前端知识点总结
@@ -65,5 +66,11 @@
 ### 第 9 点：js Function类型的理解。
 
 解析：[第 9 点](https://github.com/lotosv2010/front-end-summary/issues/18)
+
+<br/>
+
+### 第 10 点：js变量、作用域及内存的理解。
+
+解析：[第 10 点](https://github.com/lotosv2010/front-end-summary/issues/20)
 
 <br/>
