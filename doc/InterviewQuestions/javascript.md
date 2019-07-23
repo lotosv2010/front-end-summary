@@ -6,6 +6,7 @@
   - [第 5 题：深度优先遍历和广度优先遍历，如何实现？](#%E7%AC%AC-5-%E9%A2%98%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0)
   - [第 6 题：请分别用深度优先思想和广度优先思想实现一个拷贝函数？](#%E7%AC%AC-6-%E9%A2%98%E8%AF%B7%E5%88%86%E5%88%AB%E7%94%A8%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%80%9D%E6%83%B3%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%80%9D%E6%83%B3%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%8B%B7%E8%B4%9D%E5%87%BD%E6%95%B0)
   - [第 7 题：setTimeout、Promise、Async/Await 的区别？](#%E7%AC%AC-7-%E9%A2%98settimeoutpromiseasyncawait-%E7%9A%84%E5%8C%BA%E5%88%AB)
+  - [第 8 题：Async/Await 如何通过同步的方式实现异步？](#%E7%AC%AC-7-%E9%A2%98settimeoutpromiseasyncawait-%E7%9A%84%E5%8C%BA%E5%88%AB)
   
 
 
@@ -66,6 +67,14 @@
 公司：
 
 解析：[第 7 题](https://github.com/lotosv2010/front-end-summary/issues/17)
+
+<br/>
+
+### 第 8 题：Async/Await 如何通过同步的方式实现异步？
+
+公司：
+
+解析：[第 8 题](https://github.com/lotosv2010/front-end-summary/issues/19)
 
 <br/>
 
