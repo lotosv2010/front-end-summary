@@ -8,6 +8,7 @@
   - [第 7 题：`setTimeout、Promise、Async/Await` 的区别？](#%E7%AC%AC-7-%E9%A2%98settimeoutpromiseasyncawait-%E7%9A%84%E5%8C%BA%E5%88%AB)
   - [第 8 题：`Async/Await` 如何通过同步的方式实现异步？](#%E7%AC%AC-8-%E9%A2%98asyncawait-%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%90%8C%E6%AD%A5%E7%9A%84%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E5%BC%82%E6%AD%A5)
   - [第 9 题：`Promise` 构造函数是同步执行还是异步执行，那么 `then` 方法呢？](#%E7%AC%AC-9-%E9%A2%98promise%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E6%98%AF%E5%90%8C%E6%AD%A5%E6%89%A7%E8%A1%8C%E8%BF%98%E6%98%AF%E5%BC%82%E6%AD%A5%E6%89%A7%E8%A1%8C%E9%82%A3%E4%B9%88then%E6%96%B9%E6%B3%95%E5%91%A2)
+  - [第 10 题：异步笔试题？](#%E7%AC%AC-9-%E9%A2%98promise%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E6%98%AF%E5%90%8C%E6%AD%A5%E6%89%A7%E8%A1%8C%E8%BF%98%E6%98%AF%E5%BC%82%E6%AD%A5%E6%89%A7%E8%A1%8C%E9%82%A3%E4%B9%88then%E6%96%B9%E6%B3%95%E5%91%A2)
   
 
 
@@ -84,5 +85,37 @@
 公司：微医
 
 解析：[第 9 题](https://github.com/lotosv2010/front-end-summary/issues/21)
+
+<br/>
+
+### 第 10 题：异步笔试题？
+
+> 请写出下面代码的运行结果
+```javascript
+async function async1() {
+    console.log('async1 start');
+    await async2();
+    console.log('async1 end');
+}
+async function async2() {
+    console.log('async2');
+}
+console.log('script start');
+setTimeout(function() {
+    console.log('setTimeout');
+}, 0)
+async1();
+new Promise(function(resolve) {
+    console.log('promise1');
+    resolve();
+}).then(function() {
+    console.log('promise2');
+});
+console.log('script end');
+```
+
+公司：头条
+
+解析：[第 10 题](https://github.com/lotosv2010/front-end-summary/issues/23)
 
 <br/>
