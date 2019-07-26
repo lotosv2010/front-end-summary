@@ -11,6 +11,7 @@
   - [第 10 点：js变量、作用域及内存的理解。](#%E7%AC%AC-10-%E7%82%B9js%E5%8F%98%E9%87%8F%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%8F%8A%E5%86%85%E5%AD%98%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 11 点：js基本包装类型的理解。](#%E7%AC%AC-11-%E7%82%B9js%E5%9F%BA%E6%9C%AC%E5%8C%85%E8%A3%85%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 12 点：js内置对象的理解。](#%E7%AC%AC-12-%E7%82%B9js%E5%86%85%E7%BD%AE%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 13 点：js面向对象与原型的理解。](#%E7%AC%AC-12-%E7%82%B9js%E5%86%85%E7%BD%AE%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
@@ -87,5 +88,11 @@
 ### 第 12 点：js内置对象的理解。
 
 解析：[第 12 点](https://github.com/lotosv2010/front-end-summary/issues/24)
+
+<br/>
+
+### 第 13 点：js面向对象与原型的理解。
+
+解析：[第 13 点](https://github.com/lotosv2010/front-end-summary/issues/26)
 
 <br/>
