@@ -12,6 +12,7 @@
   - [第 11 点：js基本包装类型的理解。](#%E7%AC%AC-11-%E7%82%B9js%E5%9F%BA%E6%9C%AC%E5%8C%85%E8%A3%85%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 12 点：js内置对象的理解。](#%E7%AC%AC-12-%E7%82%B9js%E5%86%85%E7%BD%AE%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 13 点：js面向对象与原型的理解。](#%E7%AC%AC-13-%E7%82%B9js%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B8%8E%E5%8E%9F%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 14 点：js匿名函数和闭包的理解。](#%E7%AC%AC-13-%E7%82%B9js%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B8%8E%E5%8E%9F%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
@@ -94,5 +95,11 @@
 ### 第 13 点：js面向对象与原型的理解。
 
 解析：[第 13 点](https://github.com/lotosv2010/front-end-summary/issues/26)
+
+<br/>
+
+### 第 14 点：js匿名函数和闭包的理解。
+
+解析：[第 14 点](https://github.com/lotosv2010/front-end-summary/issues/28)
 
 <br/>
