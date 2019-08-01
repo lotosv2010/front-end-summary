@@ -38,6 +38,6 @@
 
 公司：
 
-解析：[第 4 题](https://github.com/lotosv2010/front-end-summary/issues/34)
+解析：[第 4 题](https://github.com/lotosv2010/front-end-summary/issues/33)
 
 <br/>
