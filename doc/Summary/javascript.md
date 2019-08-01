@@ -15,6 +15,7 @@
   - [第 14 点：js匿名函数和闭包的理解。](#%E7%AC%AC-13-%E7%82%B9js%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B8%8E%E5%8E%9F%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 15 点：js BOM的理解。](#%E7%AC%AC-15-%E7%82%B9js-bom%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 16 点：js浏览器检测的理解。](#%E7%AC%AC-16-%E7%82%B9js%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A3%80%E6%B5%8B%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 17 点：js DOM基础的理解。](#%E7%AC%AC-16-%E7%82%B9js%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A3%80%E6%B5%8B%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
@@ -115,5 +116,11 @@
 ### 第 16 点：js浏览器检测的理解。
 
 解析：[第 16 点](https://github.com/lotosv2010/front-end-summary/issues/32)
+
+<br/>
+
+### 第 17 点：js DOM基础的理解。
+
+解析：[第 17 点](https://github.com/lotosv2010/front-end-summary/issues/34)
 
 <br/>
