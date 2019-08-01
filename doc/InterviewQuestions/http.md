@@ -2,6 +2,7 @@
   - [第 1 题：谈谈你对 TCP 三次握手和四次挥手的理解？](#%E7%AC%AC-1-%E9%A2%98%E8%B0%88%E8%B0%88%E4%BD%A0%E5%AF%B9-tcp-%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%92%8C%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 2 题：简单讲解一下 http2 的多路复用的理解？](#%E7%AC%AC-2-%E9%A2%98%E7%AE%80%E5%8D%95%E8%AE%B2%E8%A7%A3%E4%B8%80%E4%B8%8B-http2-%E7%9A%84%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 3 题：介绍 HTTPS 握手过程？](#%E7%AC%AC-3-%E9%A2%98%E4%BB%8B%E7%BB%8D-https-%E6%8F%A1%E6%89%8B%E8%BF%87%E7%A8%8B)
+  - [第 4 题：HTTPS 握手过程中，客户端如何验证证书的合法性？](#%E7%AC%AC-3-%E9%A2%98%E4%BB%8B%E7%BB%8D-https-%E6%8F%A1%E6%89%8B%E8%BF%87%E7%A8%8B)
 
 
 
@@ -30,5 +31,13 @@
 公司：
 
 解析：[第 3 题](https://github.com/lotosv2010/front-end-summary/issues/31)
+
+<br/>
+
+### 第 4 题：HTTPS 握手过程中，客户端如何验证证书的合法性？
+
+公司：
+
+解析：[第 4 题](https://github.com/lotosv2010/front-end-summary/issues/34)
 
 <br/>
