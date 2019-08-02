@@ -16,6 +16,7 @@
   - [第 15 点：js BOM的理解。](#%E7%AC%AC-15-%E7%82%B9js-bom%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 16 点：js浏览器检测的理解。](#%E7%AC%AC-16-%E7%82%B9js%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A3%80%E6%B5%8B%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 17 点：js DOM基础的理解。](#%E7%AC%AC-17-%E7%82%B9js-dom%E5%9F%BA%E7%A1%80%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 18 点：js DOM进阶的理解。](#%E7%AC%AC-17-%E7%82%B9js-dom%E5%9F%BA%E7%A1%80%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
@@ -122,5 +123,11 @@
 ### 第 17 点：js DOM基础的理解。
 
 解析：[第 17 点](https://github.com/lotosv2010/front-end-summary/issues/34)
+
+<br/>
+
+### 第 18 点：js DOM进阶的理解。
+
+解析：[第 18 点](https://github.com/lotosv2010/front-end-summary/issues/36)
 
 <br/>
