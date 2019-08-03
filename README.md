@@ -16,7 +16,7 @@
 ### flutter（[flutter]()、[dart]()）
 ### http（[http]()）
 ### 数据结构（[数据结构]()）
-### 算法（[算法]()）
+### 算法（[算法](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/algorithm.md)）
 ### ...
 
 
