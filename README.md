@@ -14,6 +14,7 @@
 ### Ant Design系列（[Ant Design](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/ant-design.md)、[Ant Design Mobile](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/ant-design-mobile.md)、[Ant Design Pro](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/ant-design-pro.md)、[dva](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/dva.md)）
 ### Nodejs（[nodejs](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/nodejs.md)、[egg](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/egg.md)、[koa](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/koa.md)、[express](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/express.md)）
 ### flutter（[flutter](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/flutter.md)、[dart](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/dart.md)）
+### 设计模式[设计模式](http://wiki.jikexueyuan.com/project/javascript-design-patterns/constructor-mode.html)
 ### http（[http](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/http.md)）
 ### 数据结构（[数据结构](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/data-structure.md)）
 ### 算法（[算法](https://github.com/lotosv2010/front-end-summary/blob/master/doc/Summary/algorithm.md)）
