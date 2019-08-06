@@ -5,11 +5,7 @@
   - [第 4 题：什么是防抖和节流？有什么区别？如何实现？](#%E7%AC%AC-4-%E9%A2%98%E4%BB%80%E4%B9%88%E6%98%AF%E9%98%B2%E6%8A%96%E5%92%8C%E8%8A%82%E6%B5%81%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0)
   - [第 5 题：深度优先遍历和广度优先遍历，如何实现？](#%E7%AC%AC-5-%E9%A2%98%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0)
   - [第 6 题：请分别用深度优先思想和广度优先思想实现一个拷贝函数？](#%E7%AC%AC-6-%E9%A2%98%E8%AF%B7%E5%88%86%E5%88%AB%E7%94%A8%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%80%9D%E6%83%B3%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%80%9D%E6%83%B3%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%8B%B7%E8%B4%9D%E5%87%BD%E6%95%B0)
-  - [第 7 题：`setTimeout、Promise、Async/Await` 的区别？](#%E7%AC%AC-7-%E9%A2%98settimeoutpromiseasyncawait-%E7%9A%84%E5%8C%BA%E5%88%AB)
-  - [第 8 题：`Async/Await` 如何通过同步的方式实现异步？](#%E7%AC%AC-8-%E9%A2%98asyncawait-%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%90%8C%E6%AD%A5%E7%9A%84%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E5%BC%82%E6%AD%A5)
-  - [第 9 题：`Promise` 构造函数是同步执行还是异步执行，那么 `then` 方法呢？](#%E7%AC%AC-9-%E9%A2%98promise%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E6%98%AF%E5%90%8C%E6%AD%A5%E6%89%A7%E8%A1%8C%E8%BF%98%E6%98%AF%E5%BC%82%E6%AD%A5%E6%89%A7%E8%A1%8C%E9%82%A3%E4%B9%88then%E6%96%B9%E6%B3%95%E5%91%A2)
-  - [第 10 题：异步笔试题？](#%E7%AC%AC-10-%E9%A2%98%E5%BC%82%E6%AD%A5%E7%AC%94%E8%AF%95%E9%A2%98)
-  - [第 11 题：JS异步解决方案的发展历程以及优缺点？](#%E7%AC%AC-11-%E9%A2%98js%E5%BC%82%E6%AD%A5%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E7%9A%84%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B%E4%BB%A5%E5%8F%8A%E4%BC%98%E7%BC%BA%E7%82%B9)
+  - [第 7 题：如何实现一个 `new`？](#%E7%AC%AC-7-%E9%A2%98settimeoutpromiseasyncawait-%E7%9A%84%E5%8C%BA%E5%88%AB)
 
 
 
@@ -65,66 +61,10 @@
 
 <br/>
 
-### 第 7 题：setTimeout、Promise、Async/Await 的区别？
+### 第 7 题：如何实现一个 `new`？
 
 公司：
 
-解析：[第 7 题](https://github.com/lotosv2010/front-end-summary/issues/17)
-
-<br/>
-
-### 第 8 题：Async/Await 如何通过同步的方式实现异步？
-
-公司：头条、微医
-
-解析：[第 8 题](https://github.com/lotosv2010/front-end-summary/issues/19)
-
-<br/>
-
-### 第 9 题：Promise构造函数是同步执行还是异步执行，那么then方法呢？
-
-公司：微医
-
-解析：[第 9 题](https://github.com/lotosv2010/front-end-summary/issues/21)
-
-<br/>
-
-### 第 10 题：异步笔试题？
-
-> 请写出下面代码的运行结果
-```javascript
-async function async1() {
-    console.log('async1 start');
-    await async2();
-    console.log('async1 end');
-}
-async function async2() {
-    console.log('async2');
-}
-console.log('script start');
-setTimeout(function() {
-    console.log('setTimeout');
-}, 0)
-async1();
-new Promise(function(resolve) {
-    console.log('promise1');
-    resolve();
-}).then(function() {
-    console.log('promise2');
-});
-console.log('script end');
-```
-
-公司：头条
-
-解析：[第 10 题](https://github.com/lotosv2010/front-end-summary/issues/23)
-
-<br/>
-
-### 第 11 题：JS异步解决方案的发展历程以及优缺点？
-
-公司：滴滴、挖财、微医、海康
-
-解析：[第 11 题](https://github.com/lotosv2010/front-end-summary/issues/25)
+解析：[第 7 题](https://github.com/lotosv2010/front-end-summary/issues/41)
 
 <br/>
