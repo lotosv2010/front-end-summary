@@ -4,6 +4,7 @@
   - [第 3 题：介绍 HTTPS 握手过程？](#%E7%AC%AC-3-%E9%A2%98%E4%BB%8B%E7%BB%8D-https-%E6%8F%A1%E6%89%8B%E8%BF%87%E7%A8%8B)
   - [第 4 题：HTTPS 握手过程中，客户端如何验证证书的合法性？](#%E7%AC%AC-4-%E9%A2%98https-%E6%8F%A1%E6%89%8B%E8%BF%87%E7%A8%8B%E4%B8%AD%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%A6%82%E4%BD%95%E9%AA%8C%E8%AF%81%E8%AF%81%E4%B9%A6%E7%9A%84%E5%90%88%E6%B3%95%E6%80%A7)
   - [第 5 题：介绍下 HTTPS 中间人攻击？](#%E7%AC%AC-5-%E9%A2%98%E4%BB%8B%E7%BB%8D%E4%B8%8B-https-%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB)
+  - [第 6 题：A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态？](#%E7%AC%AC-5-%E9%A2%98%E4%BB%8B%E7%BB%8D%E4%B8%8B-https-%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB)
 
 
 
@@ -48,5 +49,13 @@
 公司：
 
 解析：[第 5 题](https://github.com/lotosv2010/front-end-summary/issues/35)
+
+<br/>
+
+### 第 6 题：A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态？
+
+公司：
+
+解析：[第 6 题](https://github.com/lotosv2010/front-end-summary/issues/43)
 
 <br/>
