@@ -22,6 +22,7 @@
   - [第 21 点：js DOM动态加载脚本和样式的理解。](#%E7%AC%AC-21-%E7%82%B9js-dom%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E8%84%9A%E6%9C%AC%E5%92%8C%E6%A0%B7%E5%BC%8F%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 22 点：js事件入门的理解。](#%E7%AC%AC-22-%E7%82%B9js%E4%BA%8B%E4%BB%B6%E5%85%A5%E9%97%A8%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 23 点：js事件对象的理解。](#%E7%AC%AC-23-%E7%82%B9js%E4%BA%8B%E4%BB%B6%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 24 点：js事件绑定及深入的理解。](#%E7%AC%AC-23-%E7%82%B9js%E4%BA%8B%E4%BB%B6%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
@@ -164,5 +165,11 @@
 ### 第 23 点：js事件对象的理解。
 
 解析：[第 23 点](https://github.com/lotosv2010/front-end-summary/issues/46)
+
+<br/>
+
+### 第 24 点：js事件绑定及深入的理解。
+
+解析：[第 24 点](https://github.com/lotosv2010/front-end-summary/issues/48)
 
 <br/>
