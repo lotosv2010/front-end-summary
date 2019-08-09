@@ -5,6 +5,7 @@
   - [第 4 题：深度优先遍历和广度优先遍历，如何实现？](#%E7%AC%AC-4-%E9%A2%98%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0)
   - [第 5 题：请分别用深度优先思想和广度优先思想实现一个拷贝函数？](#%E7%AC%AC-5-%E9%A2%98%E8%AF%B7%E5%88%86%E5%88%AB%E7%94%A8%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%80%9D%E6%83%B3%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%80%9D%E6%83%B3%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%8B%B7%E8%B4%9D%E5%87%BD%E6%95%B0)
   - [第 6 题：如何实现一个 `new`？](#%E7%AC%AC-6-%E9%A2%98%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA-new)
+  - [第 7 题：有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣？](#%E7%AC%AC-6-%E9%A2%98%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA-new)
 
 
 
@@ -57,5 +58,14 @@
 公司：
 
 解析：[第 6 题](https://github.com/lotosv2010/front-end-summary/issues/41)
+
+<br/>
+
+### 第 7 题：有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣？
+> `Object.prototype.toString.call() 、 instanceof 以及 Array.isArray()`
+
+公司：
+
+解析：[第 7 题](https://github.com/lotosv2010/front-end-summary/issues/47)
 
 <br/>
