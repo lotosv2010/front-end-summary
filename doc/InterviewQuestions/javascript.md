@@ -6,6 +6,8 @@
   - [第 5 题：请分别用深度优先思想和广度优先思想实现一个拷贝函数？](#%E7%AC%AC-5-%E9%A2%98%E8%AF%B7%E5%88%86%E5%88%AB%E7%94%A8%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%80%9D%E6%83%B3%E5%92%8C%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%80%9D%E6%83%B3%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%8B%B7%E8%B4%9D%E5%87%BD%E6%95%B0)
   - [第 6 题：如何实现一个 `new`？](#%E7%AC%AC-6-%E9%A2%98%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA-new)
   - [第 7 题：有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣？](#%E7%AC%AC-7-%E9%A2%98%E6%9C%89%E4%BB%A5%E4%B8%8B-3-%E4%B8%AA%E5%88%A4%E6%96%AD%E6%95%B0%E7%BB%84%E7%9A%84%E6%96%B9%E6%B3%95%E8%AF%B7%E5%88%86%E5%88%AB%E4%BB%8B%E7%BB%8D%E5%AE%83%E4%BB%AC%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E4%BC%98%E5%8A%A3)
+  - [第 8 题：介绍下重绘和回流（Repaint & Reflow），以及如何进行优化？](#%E7%AC%AC-7-%E9%A2%98%E6%9C%89%E4%BB%A5%E4%B8%8B-3-%E4%B8%AA%E5%88%A4%E6%96%AD%E6%95%B0%E7%BB%84%E7%9A%84%E6%96%B9%E6%B3%95%E8%AF%B7%E5%88%86%E5%88%AB%E4%BB%8B%E7%BB%8D%E5%AE%83%E4%BB%AC%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E4%BC%98%E5%8A%A3)
+  - [第 9 题：两个数组合并成一个数组？](#%E7%AC%AC-7-%E9%A2%98%E6%9C%89%E4%BB%A5%E4%B8%8B-3-%E4%B8%AA%E5%88%A4%E6%96%AD%E6%95%B0%E7%BB%84%E7%9A%84%E6%96%B9%E6%B3%95%E8%AF%B7%E5%88%86%E5%88%AB%E4%BB%8B%E7%BB%8D%E5%AE%83%E4%BB%AC%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E4%BC%98%E5%8A%A3)
 
 
 
@@ -67,5 +69,22 @@
 公司：
 
 解析：[第 7 题](https://github.com/lotosv2010/front-end-summary/issues/47)
+
+<br/>
+
+### 第 8 题：介绍下重绘和回流（Repaint & Reflow），以及如何进行优化？
+
+公司：
+
+解析：[第 8 题](https://github.com/lotosv2010/front-end-summary/issues/49)
+
+<br/>
+
+### 第 9 题：两个数组合并成一个数组？
+> 请把两个数组 `['A1', 'A2', 'B1', 'B2', 'C1', 'C2', 'D1', 'D2']` 和 `['A', 'B', 'C', 'D']`，合并为 `['A1', 'A2', 'A', 'B1', 'B2', 'B', 'C1', 'C2', 'C', 'D1', 'D2', 'D']`
+
+公司：
+
+解析：[第 9 题](https://github.com/lotosv2010/front-end-summary/issues/51)
 
 <br/>
