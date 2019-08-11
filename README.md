@@ -35,7 +35,7 @@
 ### Ant Design系列（[Ant Design](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/ant-design.md)、[Ant Design Mobile](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/ant-design-mobile.md)、[Ant Design Pro](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/ant-design-pro.md)、[dva](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/dvadva.md)）
 ### Nodejs（[nodejs](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/nodejs.md)、[egg](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/egg.md)、[koa](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/koa.md)、[express](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/express.md)）
 ### flutter（[flutter](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/flutter.md)、[dart](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/dart.md)）
-### 设计模式 （[constructor mode](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/constructor-mode.md)）
+### 设计模式 （[constructor mode](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/constructor.md)）
 ### http（[http](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/http.md)）
 ### 数据结构（[数据结构](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/data-structure.md)）
 ### 算法（[算法](https://github.com/lotosv2010/front-end-summary/blob/master/doc/InterviewQuestions/algorithm.md)）
