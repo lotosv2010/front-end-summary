@@ -23,6 +23,8 @@
   - [第 22 点：js事件入门的理解。](#%E7%AC%AC-22-%E7%82%B9js%E4%BA%8B%E4%BB%B6%E5%85%A5%E9%97%A8%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 23 点：js事件对象的理解。](#%E7%AC%AC-23-%E7%82%B9js%E4%BA%8B%E4%BB%B6%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 24 点：js事件绑定及深入的理解。](#%E7%AC%AC-24-%E7%82%B9js%E4%BA%8B%E4%BB%B6%E7%BB%91%E5%AE%9A%E5%8F%8A%E6%B7%B1%E5%85%A5%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 25 点：js表单处理的理解。](#%E7%AC%AC-24-%E7%82%B9js%E4%BA%8B%E4%BB%B6%E7%BB%91%E5%AE%9A%E5%8F%8A%E6%B7%B1%E5%85%A5%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 26 点：js错误处理与调试的理解。](#%E7%AC%AC-24-%E7%82%B9js%E4%BA%8B%E4%BB%B6%E7%BB%91%E5%AE%9A%E5%8F%8A%E6%B7%B1%E5%85%A5%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
@@ -173,3 +175,16 @@
 解析：[第 24 点](https://github.com/lotosv2010/front-end-summary/issues/48)
 
 <br/>
+
+### 第 25 点：js表单处理的理解。
+
+解析：[第 25 点](https://github.com/lotosv2010/front-end-summary/issues/50)
+
+<br/>
+
+### 第 26 点：js错误处理与调试的理解。
+
+解析：[第 26 点](https://github.com/lotosv2010/front-end-summary/issues/52)
+
+<br/>
+
