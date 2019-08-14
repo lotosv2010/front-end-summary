@@ -93,4 +93,4 @@ for (var i = 0; i< 10; i++){
 
 公司：
 
-解析：[第 8 题](https://github.com/lotosv2010/front-end-summary/issues/57)
+解析：[第 9 题](https://github.com/lotosv2010/front-end-summary/issues/57)
