@@ -28,6 +28,7 @@
   - [第 27 点：js及前端几种存储方式的理解。](#%E7%AC%AC-27-%E7%82%B9js%E5%8F%8A%E5%89%8D%E7%AB%AF%E5%87%A0%E7%A7%8D%E5%AD%98%E5%82%A8%E6%96%B9%E5%BC%8F%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 28 点：js XML的理解。](#%E7%AC%AC-28-%E7%82%B9js-xml%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 29 点：js XPath的理解。](#%E7%AC%AC-29-%E7%82%B9js-xpath%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 30 点：js JSON的理解。](#%E7%AC%AC-30-%E7%82%B9js-json%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
@@ -206,5 +207,11 @@
 ### 第 29 点：js XPath的理解。
 
 解析：[第 29 点](https://github.com/lotosv2010/front-end-summary/issues/58)
+
+<br/>
+
+### 第 30 点：js JSON的理解。
+
+解析：[第 30 点](https://github.com/lotosv2010/front-end-summary/issues/60)
 
 <br/>
