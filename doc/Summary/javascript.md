@@ -29,7 +29,7 @@
   - [第 28 点：js XML的理解。](#%E7%AC%AC-28-%E7%82%B9js-xml%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 29 点：js XPath的理解。](#%E7%AC%AC-29-%E7%82%B9js-xpath%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 30 点：js JSON的理解。](#%E7%AC%AC-30-%E7%82%B9js-json%E7%9A%84%E7%90%86%E8%A7%A3)
-  - [第 31 点：js Ajax的理解。](#%E7%AC%AC-30-%E7%82%B9js-ajax%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 31 点：js Ajax的理解。](#%E7%AC%AC-31-%E7%82%B9js-ajax%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
