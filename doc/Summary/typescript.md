@@ -1,6 +1,7 @@
 - [前端知识点总结-TypeScript篇](#%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93)
   - [第 1 点：typescript中的数据类型的理解。](#%E7%AC%AC-1-%E7%82%B9typescript%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
-  - [第 1 点：typescript变量声明的理解。](#%E7%AC%AC-2-%E7%82%B9typescript%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 2 点：typescript变量声明的理解。](#%E7%AC%AC-2-%E7%82%B9typescript%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 3 点：typescript接口的理解。](#%E7%AC%AC-2-%E7%82%B9typescript%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
@@ -18,5 +19,11 @@
 ### 第 2 点：typescript变量声明的理解。 
 
 解析：[第 2 点](https://github.com/lotosv2010/front-end-summary/issues/66)
+
+<br/>
+
+### 第 3 点：typescript接口的理解。 
+
+解析：[第 3 点](https://github.com/lotosv2010/front-end-summary/issues/68)
 
 <br/>
