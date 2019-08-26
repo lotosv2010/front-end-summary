@@ -10,6 +10,7 @@
   - [第 9 题：改造下面的代码，使之输出0 - 9，写出你能想到的所有解法？](#%E7%AC%AC-9-%E9%A2%98%E6%94%B9%E9%80%A0%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BB%A3%E7%A0%81%E4%BD%BF%E4%B9%8B%E8%BE%93%E5%87%BA0---9%E5%86%99%E5%87%BA%E4%BD%A0%E8%83%BD%E6%83%B3%E5%88%B0%E7%9A%84%E6%89%80%E6%9C%89%E8%A7%A3%E6%B3%95)
   - [第 10 题：cookie 和 token 都存放在 header 中，为什么不会劫持 token？](#%E7%AC%AC-10-%E9%A2%98cookie-%E5%92%8C-token-%E9%83%BD%E5%AD%98%E6%94%BE%E5%9C%A8-header-%E4%B8%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%BC%9A%E5%8A%AB%E6%8C%81-token)
   - [第 11 题：下面的代码打印什么内容，为什么？](#%E7%AC%AC-11-%E9%A2%98%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BB%A3%E7%A0%81%E6%89%93%E5%8D%B0%E4%BB%80%E4%B9%88%E5%86%85%E5%AE%B9%E4%B8%BA%E4%BB%80%E4%B9%88)
+  - [第 12 题：简单改造下面的代码，使之分别打印 10 和 20？](#%E7%AC%AC-11-%E9%A2%98%E4%B8%8B%E9%9D%A2%E7%9A%84%E4%BB%A3%E7%A0%81%E6%89%93%E5%8D%B0%E4%BB%80%E4%B9%88%E5%86%85%E5%AE%B9%E4%B8%BA%E4%BB%80%E4%B9%88)
 
 
 
@@ -116,3 +117,17 @@ var b = 10;
 公司：
 
 解析：[第 11 题](https://github.com/lotosv2010/front-end-summary/issues/69)
+
+### 第 12 题：简单改造下面的代码，使之分别打印 10 和 20？
+
+```javascript
+var b = 10;
+(function b(){
+    b = 20;
+    console.log(b); 
+})();
+```
+
+公司：
+
+解析：[第 12 题](https://github.com/lotosv2010/front-end-summary/issues/71)
