@@ -4,7 +4,7 @@
   - [第 3 点：typescript接口的理解。](#%E7%AC%AC-3-%E7%82%B9typescript%E6%8E%A5%E5%8F%A3%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 4 点：typescript类的理解。](#%E7%AC%AC-4-%E7%82%B9typescript%E7%B1%BB%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 5 点：typescript函数的理解。](#%E7%AC%AC-5-%E7%82%B9typescript%E5%87%BD%E6%95%B0%E7%9A%84%E7%90%86%E8%A7%A3)
-  - [第 6 点：typescript泛型(generic)的理解。](#%E7%AC%AC-5-%E7%82%B9typescript%E5%87%BD%E6%95%B0%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 6 点：typescript泛型(generic)的理解。](#%E7%AC%AC-6-%E7%82%B9typescript%E6%B3%9B%E5%9E%8Bgeneric%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
