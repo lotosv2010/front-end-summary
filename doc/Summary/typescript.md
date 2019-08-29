@@ -6,6 +6,7 @@
   - [第 5 点：typescript函数的理解。](#%E7%AC%AC-5-%E7%82%B9typescript%E5%87%BD%E6%95%B0%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 6 点：typescript泛型(generic)的理解。](#%E7%AC%AC-6-%E7%82%B9typescript%E6%B3%9B%E5%9E%8Bgeneric%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 7 点：typescript枚举(Enum)的理解。](#%E7%AC%AC-7-%E7%82%B9typescript%E6%9E%9A%E4%B8%BEenum%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 8 点：typescript类型推论(type inference)的理解。](#%E7%AC%AC-7-%E7%82%B9typescript%E6%9E%9A%E4%B8%BEenum%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
@@ -53,5 +54,11 @@
 ### 第 7 点：typescript枚举(Enum)的理解。 
 
 解析：[第 7 点](https://github.com/lotosv2010/front-end-summary/issues/76)
+
+<br/>
+
+### 第 8 点：typescript类型推论(type inference)的理解。 
+
+解析：[第 8 点](https://github.com/lotosv2010/front-end-summary/issues/78)
 
 <br/>
