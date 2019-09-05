@@ -10,6 +10,7 @@
   - [第 9 点：typescript Symbols的理解。](#%E7%AC%AC-8-%E7%82%B9typescript-symbols%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 10 点：typescript高级类型与实用工具类型的理解。](#%E7%AC%AC-10-%E7%82%B9typescript%E9%AB%98%E7%BA%A7%E7%B1%BB%E5%9E%8B%E4%B8%8E%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 11 点：typescript Iterators 和 Generators的理解。](#%E7%AC%AC-11-%E7%82%B9typescript-iterators-%E5%92%8C-generators%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 12 点：typescript模块的理解。](#%E7%AC%AC-11-%E7%82%B9typescript-iterators-%E5%92%8C-generators%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
@@ -81,5 +82,11 @@
 ### 第 11 点：typescript Iterators 和 Generators的理解。 
 
 解析：[第 11 点](https://github.com/lotosv2010/front-end-summary/issues/84)
+
+<br/>
+
+### 第 12 点：typescript模块的理解。 
+
+解析：[第 12 点](https://github.com/lotosv2010/front-end-summary/issues/86)
 
 <br/>
