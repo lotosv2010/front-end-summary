@@ -12,6 +12,7 @@
   - [第 11 点：typescript Iterators 和 Generators的理解。](#%E7%AC%AC-11-%E7%82%B9typescript-iterators-%E5%92%8C-generators%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 12 点：typescript模块的理解。](#%E7%AC%AC-12-%E7%82%B9typescript%E6%A8%A1%E5%9D%97%E7%9A%84%E7%90%86%E8%A7%A3)
   - [第 13 点：typescript命名空间和模块的理解。](#%E7%AC%AC-13-%E7%82%B9typescript%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4%E5%92%8C%E6%A8%A1%E5%9D%97%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [第 14 点：typescript其他知识点的理解。](#%E7%AC%AC-13-%E7%82%B9typescript%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4%E5%92%8C%E6%A8%A1%E5%9D%97%E7%9A%84%E7%90%86%E8%A7%A3)
 
 
 
@@ -95,5 +96,11 @@
 ### 第 13 点：typescript命名空间和模块的理解。 
 
 解析：[第 13 点](https://github.com/lotosv2010/front-end-summary/issues/88)
+
+<br/>
+
+### 第 14 点：typescript其他知识点的理解。 
+
+解析：[第 14 点](https://github.com/lotosv2010/front-end-summary/issues/90)
 
 <br/>
