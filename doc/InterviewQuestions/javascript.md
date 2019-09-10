@@ -16,6 +16,7 @@
   - [第 15 题：浏览器缓存读取规则？](#%E7%AC%AC-15-%E9%A2%98%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98%E8%AF%BB%E5%8F%96%E8%A7%84%E5%88%99)
   - [第 16 题：实现一个 sleep 函数？](#%E7%AC%AC-16-%E9%A2%98%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA-sleep-%E5%87%BD%E6%95%B0)
   - [第 17 题：使用 sort() 对数组 [3, 15, 8, 29, 102, 22] 进行排序，输出结果？](#%E7%AC%AC-17-%E9%A2%98%E4%BD%BF%E7%94%A8-sort-%E5%AF%B9%E6%95%B0%E7%BB%84-3-15-8-29-102-22-%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%E8%BE%93%E5%87%BA%E7%BB%93%E6%9E%9C)
+  - [第 18 题：输出以下代码执行的结果并解释为什么？](#%E7%AC%AC-17-%E9%A2%98%E4%BD%BF%E7%94%A8-sort-%E5%AF%B9%E6%95%B0%E7%BB%84-3-15-8-29-102-22-%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%E8%BE%93%E5%87%BA%E7%BB%93%E6%9E%9C)
 
 
 
@@ -177,3 +178,22 @@ if(a == 1 && a == 2 && a == 3){
 公司：
 
 解析：[第 17 题](https://github.com/lotosv2010/front-end-summary/issues/89)
+
+### 第 18 题：输出以下代码执行的结果并解释为什么？
+
+```javascript
+var obj = {
+    '2': 3,
+    '3': 4,
+    'length': 2,
+    'splice': Array.prototype.splice,
+    'push': Array.prototype.push
+}
+obj.push(1)
+obj.push(2)
+console.log(obj)
+```
+
+公司：
+
+解析：[第 18 题](https://github.com/lotosv2010/front-end-summary/issues/91)
