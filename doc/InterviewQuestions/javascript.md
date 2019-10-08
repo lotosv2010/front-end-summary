@@ -17,6 +17,7 @@
   - [第 16 题：实现一个 sleep 函数？](#%E7%AC%AC-16-%E9%A2%98%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA-sleep-%E5%87%BD%E6%95%B0)
   - [第 17 题：使用 sort() 对数组 [3, 15, 8, 29, 102, 22] 进行排序，输出结果？](#%E7%AC%AC-17-%E9%A2%98%E4%BD%BF%E7%94%A8-sort-%E5%AF%B9%E6%95%B0%E7%BB%84-3-15-8-29-102-22-%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%E8%BE%93%E5%87%BA%E7%BB%93%E6%9E%9C)
   - [第 18 题：输出以下代码执行的结果并解释为什么？](#%E7%AC%AC-18-%E9%A2%98%E8%BE%93%E5%87%BA%E4%BB%A5%E4%B8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E7%9A%84%E7%BB%93%E6%9E%9C%E5%B9%B6%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BB%80%E4%B9%88)
+  - [第 19 题：call 和 apply 的区别是什么，哪个性能更好一些？](#%E7%AC%AC-18-%E9%A2%98%E8%BE%93%E5%87%BA%E4%BB%A5%E4%B8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E7%9A%84%E7%BB%93%E6%9E%9C%E5%B9%B6%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BB%80%E4%B9%88)
 
 
 
@@ -197,3 +198,9 @@ console.log(obj)
 公司：
 
 解析：[第 18 题](https://github.com/lotosv2010/front-end-summary/issues/91)
+
+### 第 19 题：call 和 apply 的区别是什么，哪个性能更好一些？
+
+公司：
+
+解析：[第 19 题](https://github.com/lotosv2010/front-end-summary/issues/95)
