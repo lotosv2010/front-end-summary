@@ -104,11 +104,15 @@ for (var i = 0; i< 10; i++){
 
 解析：[第 9 题](https://github.com/lotosv2010/front-end-summary/issues/57)
 
+<br/>
+
 ### 第 10 题：cookie 和 token 都存放在 header 中，为什么不会劫持 token？
 
 公司：
 
 解析：[第 10 题](https://github.com/lotosv2010/front-end-summary/issues/61)
+
+<br/>
 
 ### 第 11 题：下面的代码打印什么内容，为什么？
 
@@ -124,6 +128,8 @@ var b = 10;
 
 解析：[第 11 题](https://github.com/lotosv2010/front-end-summary/issues/69)
 
+<br/>
+
 ### 第 12 题：简单改造下面的代码，使之分别打印 10 和 20？
 
 ```javascript
@@ -138,11 +144,15 @@ var b = 10;
 
 解析：[第 12 题](https://github.com/lotosv2010/front-end-summary/issues/71)
 
+<br/>
+
 ### 第 13 题：使用迭代的方式实现 flatten 函数？
 
 公司：
 
 解析：[第 13 题](https://github.com/lotosv2010/front-end-summary/issues/73)
+
+<br/>
 
 ### 第 14 题：下面代码中 a 在什么情况下会打印 1？
 
@@ -157,6 +167,8 @@ if(a == 1 && a == 2 && a == 3){
 
 解析：[第 14 题](https://github.com/lotosv2010/front-end-summary/issues/75)
 
+<br/>
+
 ### 第 15 题：浏览器缓存读取规则？
 
 > 可以分成 Service Worker、Memory Cache、Disk Cache 和 Push Cache，那请求的时候 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？
@@ -164,6 +176,8 @@ if(a == 1 && a == 2 && a == 3){
 公司：
 
 解析：[第 15 题](https://github.com/lotosv2010/front-end-summary/issues/77)
+
+<br/>
 
 ### 第 16 题：实现一个 sleep 函数？
 
@@ -173,11 +187,15 @@ if(a == 1 && a == 2 && a == 3){
 
 解析：[第 16 题](https://github.com/lotosv2010/front-end-summary/issues/87)
 
+<br/>
+
 ### 第 17 题：使用 sort() 对数组 [3, 15, 8, 29, 102, 22] 进行排序，输出结果？
 
 公司：
 
 解析：[第 17 题](https://github.com/lotosv2010/front-end-summary/issues/89)
+
+<br/>
 
 ### 第 18 题：输出以下代码执行的结果并解释为什么？
 
@@ -198,8 +216,13 @@ console.log(obj)
 
 解析：[第 18 题](https://github.com/lotosv2010/front-end-summary/issues/91)
 
+<br/>
+
 ### 第 19 题：call 和 apply 的区别是什么，哪个性能更好一些？
 
 公司：
 
 解析：[第 19 题](https://github.com/lotosv2010/front-end-summary/issues/95)
+
+<br/>
+
